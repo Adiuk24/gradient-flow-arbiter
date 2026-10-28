@@ -4,7 +4,7 @@ Verification tooling for training a language model on a framework younger than i
 collective debugging experience.
 
 Companion artifact to **"Training a Language Model End-to-End in Rust: An Experience Report"**
-(Arif Ahmed Adito, Adioris Tech Ltd., Dhaka).
+(Arif Ahmed Adito, [Adioris Tech Ltd.](https://adioris.com), Dhaka). How it works, step by step: [adioris.com/gradient-flow-arbiter](https://adioris.com/gradient-flow-arbiter).
 
 ## The problem these tests exist for
 
